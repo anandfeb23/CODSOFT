@@ -1,5 +1,7 @@
 ## 🧮 Simple Calculator
 
+[Check out, live demo]("https://calcibyanshu.netlify.app/")
+
 Welcome to Simple Calculator! This is a minimalist calculator built with HTML, CSS, and JavaScript. Whether you're crunching numbers for work or school, this tool offers a straightforward interface for your basic arithmetic needs.
 
 ## Features
